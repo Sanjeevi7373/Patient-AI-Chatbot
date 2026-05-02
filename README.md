@@ -123,7 +123,7 @@ python smart_shield.py --demo
 <h2 align="center">💬 Chatbot UI</h2>
 
 <p align="center">
-  <img src="screenshots/chatbot.png" width="500"/>
+  <img src="Screenshot.png" width="500"/>
 </p>
 
 ---
